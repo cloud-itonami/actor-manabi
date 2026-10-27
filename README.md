@@ -4,7 +4,7 @@
 machines for literacy, numeracy, civics, vocational learning, lifelong inquiry,
 certificate-preparation scaffolds, and social publication planning.
 
-Canonical repository: `etzhayyim/actor-manabi`.
+Canonical repository: `cloud-itonami/actor-manabi`.
 
 Within the Tamaki artificial organism, manabi is the learning-support organ. It
 may propose open curricula and self-paced practice, but it does not issue
